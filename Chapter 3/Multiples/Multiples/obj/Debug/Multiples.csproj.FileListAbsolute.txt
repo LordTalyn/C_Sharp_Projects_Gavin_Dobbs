@@ -1,0 +1,6 @@
+C:\Users\Gavin\Documents\Visual Studio 2013\Projects\Chapter 3\Multiples\Multiples\bin\Debug\Multiples.exe.config
+C:\Users\Gavin\Documents\Visual Studio 2013\Projects\Chapter 3\Multiples\Multiples\bin\Debug\Multiples.exe
+C:\Users\Gavin\Documents\Visual Studio 2013\Projects\Chapter 3\Multiples\Multiples\bin\Debug\Multiples.pdb
+C:\Users\Gavin\Documents\Visual Studio 2013\Projects\Chapter 3\Multiples\Multiples\obj\Debug\Multiples.csprojResolveAssemblyReference.cache
+C:\Users\Gavin\Documents\Visual Studio 2013\Projects\Chapter 3\Multiples\Multiples\obj\Debug\Multiples.exe
+C:\Users\Gavin\Documents\Visual Studio 2013\Projects\Chapter 3\Multiples\Multiples\obj\Debug\Multiples.pdb
