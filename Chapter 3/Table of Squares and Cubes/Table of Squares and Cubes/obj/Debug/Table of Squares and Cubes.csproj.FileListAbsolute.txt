@@ -1,0 +1,6 @@
+C:\Users\Gavin\Documents\Visual Studio 2013\Projects\C_Sharp_Projects_Gavin_Dobbs\Chapter 3\Table of Squares and Cubes\Table of Squares and Cubes\bin\Debug\Table of Squares and Cubes.exe.config
+C:\Users\Gavin\Documents\Visual Studio 2013\Projects\C_Sharp_Projects_Gavin_Dobbs\Chapter 3\Table of Squares and Cubes\Table of Squares and Cubes\bin\Debug\Table of Squares and Cubes.exe
+C:\Users\Gavin\Documents\Visual Studio 2013\Projects\C_Sharp_Projects_Gavin_Dobbs\Chapter 3\Table of Squares and Cubes\Table of Squares and Cubes\bin\Debug\Table of Squares and Cubes.pdb
+C:\Users\Gavin\Documents\Visual Studio 2013\Projects\C_Sharp_Projects_Gavin_Dobbs\Chapter 3\Table of Squares and Cubes\Table of Squares and Cubes\obj\Debug\Table of Squares and Cubes.csprojResolveAssemblyReference.cache
+C:\Users\Gavin\Documents\Visual Studio 2013\Projects\C_Sharp_Projects_Gavin_Dobbs\Chapter 3\Table of Squares and Cubes\Table of Squares and Cubes\obj\Debug\Table of Squares and Cubes.exe
+C:\Users\Gavin\Documents\Visual Studio 2013\Projects\C_Sharp_Projects_Gavin_Dobbs\Chapter 3\Table of Squares and Cubes\Table of Squares and Cubes\obj\Debug\Table of Squares and Cubes.pdb
